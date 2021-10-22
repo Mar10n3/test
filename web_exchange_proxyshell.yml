@@ -22,6 +22,7 @@ detection:
             - '/mapi/nspi'
             - '/EWS'
             - 'X-Rps-CAT'
+            DIFFERENZA TRA I 2 FILES
     selection:
         sc-status: 401
     selection_poc:
